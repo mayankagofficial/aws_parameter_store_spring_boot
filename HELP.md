@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.fimohealth.spring-boot-config-client' is invalid and this project uses 'com.fimohealth.springbootconfigclient' instead.
+* The original package name 'a.spring-boot-config-client' is invalid and this project uses 'info.mayankag.springbootconfigclient' instead.
 
 # Getting Started
 
