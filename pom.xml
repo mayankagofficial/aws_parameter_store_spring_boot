@@ -8,7 +8,7 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fimohealth</groupId>
+	<groupId>info.mayankag</groupId>
 	<artifactId>aws_parameter_store_test_spring_boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aws_parameter_store_test_spring_boot</name>

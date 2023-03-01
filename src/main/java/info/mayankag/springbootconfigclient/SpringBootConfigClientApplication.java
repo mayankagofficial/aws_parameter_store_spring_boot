@@ -1,4 +1,4 @@
-package com.fimohealth.springbootconfigclient;
+package info.mayankag.springbootconfigclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
